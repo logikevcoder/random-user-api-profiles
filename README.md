@@ -1,7 +1,10 @@
 # Random User Profile using an API
 
+### Try it out
 
-## About
+ https://logikevcoder.github.io/random-user-api-profiles/
+
+### About
 
 
 This app uses a public random user api to pull information using the fetch method. 
